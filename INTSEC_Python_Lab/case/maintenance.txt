@@ -1,0 +1,11 @@
+All timestamps use UTC on 2026-10-12.
+
+Approved window: 09:00 to 09:10; account: maint_bot.
+Approved edits: meeting.txt (move the meeting from 09:00 to 10:00),
+roster.txt (change the weekend duty editor) and footer.txt (update the year).
+Approved removals: archive.txt and old_banner.txt, both retired public notices.
+Approved additions: notice.txt and status_page.txt, maintenance messages.
+Routine: the service account refreshes feed_cache.txt throughout the day.
+contacts.txt is restricted to the editor account.
+The service account is not authorised to read contacts.txt.
+No other content changes are authorised in this note.

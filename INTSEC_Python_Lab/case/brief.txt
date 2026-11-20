@@ -1,0 +1,16 @@
+Incident brief: Northbridge News
+
+Planned maintenance ran on the shared document area on the morning of
+2026-10-12. Afterwards the editor asked for a review to confirm that nothing
+else happened.
+
+You have received two snapshots of the document area, `before` (taken at 08:55
+UTC) and `after` (taken at 09:50 UTC), the approved maintenance note
+(maintenance.txt) and the access log for the morning (access.csv).
+
+Classify each file as added, deleted, modified or unchanged. Then use the
+maintenance note and the access log to separate approved work from activity
+that needs further investigation. Compare event times with the snapshot times:
+a change saved before 08:55 is already in the `before` snapshot.
+
+Northbridge News, its staff and these events are fictional.
